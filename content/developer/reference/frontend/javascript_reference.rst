@@ -39,7 +39,7 @@ Web client
 Single Page Application
 -----------------------
 
-In short, the *webClient*, instance of *WebClient* is the root component of the
+In short   the *webClient*, instance of *WebClient* is the root component of the
 whole user interface.  Its responsibility is to orchestrate all various
 subcomponents, and to provide services, such as rpcs, local storage and more.
 
